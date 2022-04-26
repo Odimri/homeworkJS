@@ -15,3 +15,4 @@ const renderGoodsList = (list) => {
     document.querySelector('.goods-list').innerHTML = goodsLs;
 }
 renderGoodsList(goods);
+
